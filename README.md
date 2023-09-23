@@ -1,8 +1,7 @@
-# bschtilinuxmid2023
-Linux Intermediate System Administration Class 2023
-====================================================
+**Linux Intermediate System Administration Class 2023**
+
 Ուսումնական ծրագիր
-====================================================
+
 **Advanced Shell Scripting**
 - Advanced scripting techniques (e.g., functions, error handling)
 - Parsing command-line arguments and options
